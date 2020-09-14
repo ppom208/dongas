@@ -1,0 +1,14 @@
+.banner-img {
+    object-fit: cover;
+}
+.selections .img-border{
+    object-fit: cover;
+    max-width: 100%;
+    border: 5px solid;
+    box-shadow: 0 5px 8px;
+}
+.selections img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
